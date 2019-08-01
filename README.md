@@ -4,14 +4,14 @@ Import `.yml` files in your [next.js] project.
 ## Installation
 
 ```sh
-yarn add --dev next-yaml
+yarn add --dev next-plugin-yaml
 ```
 
 ## Usage
 
 ```js
 // next.config.js
-const withYaml = require('next-yaml');
+const withYaml = require('next-plugin-yaml');
 
 module.exports = withYaml({
  // other config here

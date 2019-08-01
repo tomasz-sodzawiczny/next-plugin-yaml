@@ -1,6 +1,6 @@
 {
   "name": "next-plugin-yaml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.js",
   "description": "Import `.yml` files in your [next.js] project",
   "keywords": [
