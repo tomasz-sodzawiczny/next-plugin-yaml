@@ -5,7 +5,7 @@
   "author": "Tomasz Sodzawiczny <tsodzawiczny@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "lint": "eslint src/"
+    "test": "eslint src/"
   },
   "devDependencies": {
     "eslint": "5.3.0",
