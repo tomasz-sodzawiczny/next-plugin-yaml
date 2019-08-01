@@ -1,10 +1,19 @@
 {
-  "name": "next-yaml",
-  "version": "0.0.1",
+  "name": "next-plugin-yaml",
+  "version": "1.0.0",
   "main": "src/index.js",
   "description": "Import `.yml` files in your [next.js] project",
-  "keywords": ["next", "yaml", "nextjs", "plugin"],
+  "keywords": [
+    "next",
+    "yaml",
+    "nextjs",
+    "plugin"
+  ],
   "author": "Tomasz Sodzawiczny <tsodzawiczny@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomasz-sodzawiczny/next-plugin-yaml"
+  },
   "license": "MIT",
   "scripts": {
     "test": "eslint src/"
