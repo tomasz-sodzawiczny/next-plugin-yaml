@@ -2,6 +2,8 @@
   "name": "next-yaml",
   "version": "0.0.1",
   "main": "src/index.js",
+  "description": "Import `.yml` files in your [next.js] project",
+  "keywords": ["next", "yaml", "nextjs", "plugin"],
   "author": "Tomasz Sodzawiczny <tsodzawiczny@gmail.com>",
   "license": "MIT",
   "scripts": {

@@ -1,5 +1,5 @@
 # Next.js + YAML
-Import `.yml` in your [next.js] project. 
+Import `.yml` files in your [next.js] project. 
 
 ## Installation
 
